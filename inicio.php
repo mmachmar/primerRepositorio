@@ -6,12 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-<<<<<<< HEAD
-    
-=======
-    <?php
-        echo "primera moficiacion";
-    ?>
->>>>>>> modificacion
+
 </body>
 </html>
